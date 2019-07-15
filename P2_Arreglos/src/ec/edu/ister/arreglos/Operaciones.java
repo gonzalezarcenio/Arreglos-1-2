@@ -36,7 +36,7 @@ package ec.edu.ister.arreglos;
     public int elementoM(int vector[],int num){
      int mayor=0;  
         for (int i = 0; i <num; i++) {
-         if(vector[i]>num){
+         if(vector[i]>mayor){
               mayor=vector[i];
        }   
           }
