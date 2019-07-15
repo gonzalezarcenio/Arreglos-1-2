@@ -5,7 +5,7 @@ import ec.edu.ister.arreglos.Operaciones;
 import java.util.Scanner;
 
 /**
- *Fecha lunes 14 de julio del 2019
+ *Fecha lunes 15 de julio del 2019
  *Instituto Tecnològico Superior Rumiñahui 
  * Nombre: Bryan Gonzalez
  * Enunciado : elementos pares
